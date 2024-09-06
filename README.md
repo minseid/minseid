@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlign=70&fontAlignY=40)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=찾아주셔서 감사합니다!!&fontSize=50" />
 
 # 👋 안녕하세요, 저는 백엔드개발자 김민서입니다!
 
