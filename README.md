@@ -12,6 +12,7 @@
 ## 🚀 프로젝트
 - **[모아올리오](https://github.com/Moaolio/moaolio-be)**: 포트폴리오 종합관리 서비스.  (기획 및 백엔드개발)
 - **[니어바이](https://github.com/minseid/near_BE)**: 전시회 공연 예약관리 서비스. (백엔드개발)
+- **[어디](https://github.com/minseid/OC_project)**: 전시회 공연 예약관리 서비스. (백엔드 개발)
 
 ## 📈 GitHub 통계
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
