@@ -14,7 +14,7 @@
 
 ## 🚀 프로젝트
 - **[모아올리오](https://github.com/Moaolio/moaolio-be)**: 포트폴리오 종합관리 서비스.  (기획 및 백엔드개발)
-- **[두두타맵스](https://github.com/minseid/dudutaMap)**: 두근두근타운 재료표시사이트. (1인개발)
+- **[두두타맵스](https://github.com/minseid/dudutaMap_renewer)**: 두근두근타운 재료표시사이트. (1인개발)
 - **[어디](https://github.com/minseid/OC_project)**: 모인구성 및 장소공유 앱. (백엔드 개발)
 
 ## 📫 연락처
